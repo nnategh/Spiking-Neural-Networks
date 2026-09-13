@@ -4,7 +4,7 @@ This repository contains two related projects studying neural coding
 schemes (Rate, Time-to-First-Spike, Phase, and Burst) in spiking neural
 networks.
 
-## [`coding-benchmark/`](coding-benchmark/)
+## [`coding-benchmark`](coding-benchmark)
 
 The primary, current benchmark. Compares Rate, TTFS, and Phase coding on
 EMNIST and CIFAR-10, using a matched encoding/readout methodology with
@@ -13,7 +13,7 @@ the primary reference for current Rate/TTFS/Phase results. Full
 methodology and results are in its technical report:
 [`coding-benchmark/report/Coding_Scheme_Benchmark_Report.pdf`](coding-benchmark/report/Coding_Scheme_Benchmark_Report.pdf).
 
-## [`dvs-and-burst-exploration/`](dvs-and-burst-exploration/)
+## [`dvs-and-burst-exploration`](dvs-and-burst-exploration)
 
 Earlier senior-project work, preserved because it contains **Burst
 coding** and event-based **DVS-Gesture** experiments not yet covered by
